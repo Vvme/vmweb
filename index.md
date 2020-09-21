@@ -1,4 +1,4 @@
-## <button type="button">About</button>&nbsp;&nbsp;<button type="button">Bibliography</button>
+## <button type="button">About</button>(about.md)&nbsp;&nbsp;&nbsp;&nbsp;<button type="button">Bibliography</button>(bibliography.md)
 
 ## Welcome to GitHub Pages
 
