@@ -1,6 +1,6 @@
 ## <button type="button" body style="background-color:#252525;">[About](about.md)</button>&nbsp;&nbsp;&nbsp;&nbsp; <button type="button" body style="background-color:#252525;">[Bibliography](bibliography.md)</button>
 
-# Welcome to my website!
+# This is the website of author Ville Meriläinen.
 
 There are many like it because I used a template.
 
