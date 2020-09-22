@@ -20,4 +20,4 @@ _Fantasia Divinity_ (expected late 2020)
 # Spirit of the Forest
 _It Calls from the Forest, vol. 2_
 
-##Visit my <a href="https://curiousfictions.com/authors/111-ville-merilainen">Curious Fictions</a> to read previously published stories.
+## Visit my <a href="https://curiousfictions.com/authors/111-ville-merilainen">Curious Fictions</a> to read previously published stories.
