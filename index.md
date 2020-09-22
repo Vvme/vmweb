@@ -1,3 +1,8 @@
+.sg button {
+color: #1F85DE;
+background: #000000;
+}
+
 ## <button type="button">[About](about.md)</button>&nbsp;&nbsp;&nbsp;&nbsp;<button type="button">[Bibliography](bibliography.md)</button>
 
 ## Welcome to GitHub Pages
