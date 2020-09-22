@@ -1,4 +1,4 @@
-<htnl>
+<html>
 .sg button {
 color: #1F85DE;
 background: #252525;
