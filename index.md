@@ -4,7 +4,7 @@
 
 There are many like it because I used a template.
 
-## Upcoming publications (updated 22.9.2020):
+## Upcoming short stories (updated 22.9.2020):
 
 ### White Casket
 _Cirsova_ Winter Issue (expected Dec 2020)
