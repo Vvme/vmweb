@@ -4,7 +4,7 @@ color: #1F85DE;
 background: #252525;
 }
 
-## <button type="button">[About](about.md)</button>&nbsp;&nbsp;&nbsp;&nbsp;<button type="button">[Bibliography](bibliography.md)</button>
+## <button class="button">[About](about.md)</button>&nbsp;&nbsp;&nbsp;&nbsp;<button class="button">[Bibliography](bibliography.md)</button>
 
 ## Welcome to GitHub Pages
 
